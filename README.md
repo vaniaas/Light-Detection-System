@@ -24,5 +24,3 @@ This repository contains the **Light Detection System** using **Arduino**, desig
 2. Upload the provided **Arduino code** to your board.  
 3. Monitor light detection output via the **Serial Monitor**.  
 4. The **LED** will turn on in dark conditions and turn off in bright conditions.  
-
-Feel free to contribute and improve this project! 🚀  
